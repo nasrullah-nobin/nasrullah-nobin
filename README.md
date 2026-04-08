@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  ![Banner](https://i.ibb.co/xKNSSn0c/Gemini-Generated-Imamh.png)
+  <img src="https://i.ibb.co.com/xKNSSn0c/Gemini-Generated-Imamh.png" />
 </p>
