@@ -38,6 +38,12 @@ I enjoy turning ideas into real-world digital products and continuously improvin
   <a href="https://www.linkedin.com/in/nabin-hossen"/>
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+   <a href="https://web.facebook.com/profile.php?id=61581531930488">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+   <a href="https://wa.me/01636817986">
+    <img src="https://skillicons.dev/icons?i=whatsapp" />
+  </a>
 </p>
 
 ---
