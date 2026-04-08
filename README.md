@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Banner](./Gemini-Generated-Imamh.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nasrullah-nobin/nasrullah-nobin/main/banner.png" width="100%" />
+</p>
