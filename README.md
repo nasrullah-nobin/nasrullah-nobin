@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://i.ibb.co/xKNSSn0c/Gemini-Generated-Imamh.png" />
-</p>
+![Banner](https://i.ibb.co/xKNSSn0c/Gemini-Generated-Imamh.png)
